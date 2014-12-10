@@ -1,0 +1,6 @@
+This is the first practice file inside this repository.
+
+this file will have changes made to it, as well as eventually later moving to a
+new directory.
+
+This is the last line.
